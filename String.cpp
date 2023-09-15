@@ -6,10 +6,10 @@ main()
        ifstream encinares ("input.txt");
        string str;
       
-       while (getline(encinares,str))
+        while (getline(encinares,str))
       {
-      cout<<str<<endl;
+       cout<<str<<endl;
       
             }
-      system("pause");
+       system("pause");
             }
