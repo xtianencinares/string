@@ -8,7 +8,7 @@ main()
       
         while (getline(encinares,str))
       {
-       cout<<str<<endl;
+        cout<<str<<endl;
       
             }
         system("pause");
