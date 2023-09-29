@@ -11,5 +11,5 @@ main()
         cout<<str<<endl;
       
             }
-        system("pause");
+        system("pause"); 
              }
