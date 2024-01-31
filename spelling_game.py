@@ -18,7 +18,7 @@ def play_spelling_game():
 
     attempts = 3
     while attempts > 0:
-        guess = input("Your guess: ").lower()
+        guess = input("Your guess: ").lower() 
 
         if guess == original_word:
             print("Congratulations! You guessed it correctly.")
